@@ -7,8 +7,9 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
+		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.2",
-		"cors": "^2.8.1"
+		"nodemon": "^2.0.3"
 	},
 	"engines": {
 		"node": "4.4.5"
